@@ -1,0 +1,123 @@
+element.style {
+  padding: 23px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background-image: url("projects\ background.jpg");
+height:100vh;
+  opacity: 0.75;
+  color: black;
+  padding-right: 50px;
+   background-size: cover;
+    background-position: center;
+
+}
+
+
+
+
+
+.projectsidebar ul {
+  padding-top: 0%;
+  margin-left: 20%;
+  list-style: none;
+  line-height: 300%;
+  font-size: 23px;
+  color: darkolivegreen;
+
+}
+
+.projectsidebar nav ul a {
+  color: black;
+  text-decoration:dotted;
+}
+
+.projectsidebar nav ul :hover {
+  color: white;
+}
+
+.projectsidebar nav {
+
+  padding: 30px;
+  text-align: center;
+  color: black;
+  padding: 129px;
+}
+
+.projectmain {
+  background-color: rgb(128, 148, 94);
+  padding: 2%;
+  color:black;
+  width:200%;
+  
+}
+
+.projectcontainer{
+  display: flex;
+  width:105%;
+  height:200%;
+
+}
+.projectsidebar {
+  margin-left: -4%;
+  padding: 2%;
+  width: 434px;
+  height:100vh;
+  background-color:darkolivegreen;
+padding-right: 50px;
+
+}
+.project{
+  font-size: 30px;
+  text-align: left;
+  color:black;
+  width: 90%;
+  margin-left: 23px;
+  padding-top: 5%;
+ 
+}
+
+
+.projectinfoc {
+  background-color:rgb(149, 169, 115);
+  height: 90%;
+  width: 90%;
+  margin: 118px auto;
+  margin-top: 38px;
+  margin-right: 41px;
+  margin-left: 61px;
+
+
+}
+.projectaboutme {
+  font-size: 22px;
+  text-align: left;
+  margin-left: 23px;
+  color: black;
+  font-family: "Playfair Display";
+}
+.projectaboutme a{
+  text-decoration:solid;
+  color: black ;
+}
+.projectaboutme a:hover{
+  color:white;
+}
+
+.projectmoreaboutme{
+   font-size: 23px;
+  font-style: oblique;
+  padding-top: 2%;
+  text-decoration:none;
+  color:black;
+}
+projbody{
+   background-color:rgb(149, 169, 115);
+}
+

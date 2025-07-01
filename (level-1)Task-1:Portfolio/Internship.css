@@ -1,0 +1,114 @@
+element.style {
+  padding: 23px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body{
+background-color: rgb(128, 148, 94);
+
+  opacity: 0.75;
+  color: black;
+  padding-right: 50px;
+  height: 100vh;
+
+}
+.internsidebar ul {
+  padding-top: 0%;
+  margin-left: 20%;
+  list-style: none;
+  line-height: 300%;
+  font-size: 23px;
+  color: darkolivegreen;
+
+}
+.internmoreaboutme a{
+  text-decoration: none;
+  color:black;
+}
+
+.internmoreaboutme a:hover{
+  color:white;
+}
+.internsidebar nav ul a {
+  color: black;
+  text-decoration: none;
+}
+
+.internsidebar nav ul :hover {
+  color: white;
+}
+
+.internsidebar nav {
+
+  padding: 30px;
+  text-align: center;
+  color: black;
+  padding: 129px;
+}
+
+.internmain {
+  background-color: rgb(128, 148, 94);
+  padding: 2%;
+  color:black;
+}
+
+.interncontainer{
+  display: flex;
+
+}
+.internsidebar {
+  margin-left: -4%;
+  padding: 2%;
+  width: 434px;
+  height:100vh;
+
+  background-color:darkolivegreen;
+
+
+}
+.internship {
+  font-size: 30px;
+  text-align: left;
+
+  padding-top: 3%;
+  color:black;
+  width: 75%;
+  margin-left: 23px;
+  margin-bottom: -9%;
+
+}
+
+
+.interninfoc {
+  background-color:rgb(149, 169, 115);
+  height: 64vh;
+  width: 67vw;
+  margin: 118px auto;
+  margin-top: 38px;
+  margin-right: 41px;
+  margin-left: 61px;
+  display:grid
+
+}
+.internaboutme {
+  font-size: 22px;
+  text-align: left;
+
+  margin-left: 23px;
+  color: black;
+  padding-right: 2%;
+}
+
+.internmoreaboutme{
+   font-size: 23px;
+  font-style: oblique;
+  padding-top: 2%;
+  text-decoration:none;
+  color:black;
+}

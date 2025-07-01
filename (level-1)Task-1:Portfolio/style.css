@@ -1,0 +1,158 @@
+element.style {
+  padding: 23px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background-color: rgb(211, 166, 108);
+   background-size: cover;
+    background-position: center;
+  opacity: 0.75;
+  color: black;
+  padding-right: 50px;
+
+}
+
+
+.sidebar ul {
+  padding-top: 0%;
+  margin-left: 20%;
+  list-style: none;
+  line-height: 300%;
+  font-size: 23px;
+  color: rgba(0, 0, 0, 0.59);
+
+}
+.sidebar nav ul a {
+  color: rgba(0, 0, 0, 0.59);
+  text-decoration: none;
+}
+
+.sidebar nav ul :hover {
+  color: red;
+}
+.sidebar nav {
+
+  padding: 30px;
+  text-align: center;
+  color: black;
+  padding: 129px;
+
+
+}
+.main {
+  background-color: rgb(211, 166, 108);
+  padding: 2%;
+  height:100vh;
+
+
+}
+.container {
+  display: flex;
+
+}
+.sidebar {
+  margin-left: -4%;
+  padding: 2%;
+  width: 434px;
+height:100vh;
+  background-color: rgb(224, 190, 147);
+
+}
+.hey {
+  font-size: 30px;
+  text-align: left;
+  font-family: "Playfair Display";
+
+  padding-top: 12%;
+  color: rgb(121, 25, 25);
+  width: 80%;
+  margin-left: 23px;
+}
+
+.more {
+  font-size: 23px;
+  font-style: oblique;
+  padding-top: 10%;
+}
+.infoContainer {
+  background-color: rgba(196, 160, 114, 0.695);
+  height: 64vh;
+  width: 67vw;
+  margin: 118px auto;
+  margin-top: 94px;
+  margin-right: 41px;
+  margin-left: 61px;
+  display: flexbox;
+}
+.buttons {
+  padding: 20px;
+}
+
+.buttons button {
+  text-decoration:none;
+  padding: 7px;
+  margin-top: 10px;
+  border-radius: 20px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.59);
+  background-color: rgb(224, 190, 147);
+  border-color: rgb(121, 25, 25);
+ 
+}
+
+.buttons button a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.59);
+
+}
+
+.buttons button:hover {
+  text-decoration: none;
+  background-color: white;
+  color: maroon;
+}
+.about {
+  font-size: 25px;
+  text-align: left;
+  font-family: "Roboto";
+  margin-left: 23px;
+  color: rgba(0, 0, 0, 0.59);
+}
+/*----------------------contact form------------------->*/
+.contactform h1{
+font-family: "fira Sans", sans-serif;
+text-align: center;
+padding-right: 10%;
+padding-top: 20%;
+padding-left: 10%;
+
+}
+#Email {
+  width: 100%;
+  padding-bottom: 2%;
+
+}
+#emailHelp {
+  padding: 5%;
+}
+.mb-3 {
+  padding: 5%;
+}
+.btn.btn-primary {
+  width: 50%;
+  padding: 2%;
+  margin: 5%;
+}
+.contactform{
+  background-color: rgba(196, 160, 114, 0.695);
+  font-family: "Source Code Pro", monospace;
+}
+#exampleInputPassword1 {
+  width: 100%;
+}

@@ -1,0 +1,104 @@
+element.style {
+  padding: 23px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background-color: whitesmoke;
+height:100vh;
+  opacity: 0.75;
+  color: black;
+  padding-right: 50px;
+   background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.introsidebar ul {
+  padding-top: 0%;
+  margin-left: 20%;
+  list-style: none;
+  line-height: 300%;
+  font-size: 23px;
+  color: rgba(0, 0, 0, 0.59);
+
+}
+
+.introsidebar nav ul a {
+  color: rgba(0, 0, 0, 0.59);
+  text-decoration: none;
+}
+
+.introsidebar nav ul :hover {
+  color: white;
+}
+
+.introsidebar nav {
+
+  padding: 30px;
+  text-align: center;
+  color: black;
+  padding: 129px;
+}
+
+.intromain {
+  background-color: whitesmoke;
+  padding: 2%;
+}
+
+.introcontainer {
+  display: flex;
+
+}
+.introsidebar {
+  margin-left: -4%;
+  padding: 2%;
+  width: 434px;
+  height:100vh;
+
+  background-color: rgb(195, 181, 181);
+
+}
+.hello {
+  font-size: 30px;
+  text-align: left;
+
+  padding-top: 12%;
+  color:black;
+  width: 80%;
+  margin-left: 23px;
+
+}
+
+
+.infoc {
+  background-color:white;
+  height: 64vh;
+  width: 67vw;
+  margin: 118px auto;
+  margin-top: 38px;
+  margin-right: 41px;
+  margin-left: 61px;
+  display:grid
+
+}
+.aboutme {
+  font-size: 22px;
+  text-align: left;
+
+  margin-left: 23px;
+  color: rgb(40, 38, 38);
+}
+
+.moreaboutme{
+   font-size: 23px;
+  font-style: oblique;
+  padding-top: 10%;
+}
