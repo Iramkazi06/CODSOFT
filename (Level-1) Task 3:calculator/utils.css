@@ -1,0 +1,26 @@
+.text-center {
+  text-align: center;
+  font-family:Lacquer;
+}
+
+.container {
+  background: transparent;
+}
+.mx-auto{
+  margin:auto;
+}
+.flex{
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  font-family:Lacquer;
+}
+.container{
+  background:darkgray;
+  width: 320px;;
+  height: 50%;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: 90px;
+}
